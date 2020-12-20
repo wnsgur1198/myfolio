@@ -1,11 +1,11 @@
 import emoji from 'react-easy-emoji';
 
 export const greeting = {
-	username: 'Username',
-	title: 'Hello I\'m Username',
-	subTitle: emoji("subtitle ❤"),
-	role: "Your role",
-	resumeLink: "Your resume link... google drive or something else",
+	username: '김준혁',
+	title: 'Hello I\'m Jun-Hyeok Kim',
+	subTitle: emoji("성장하는 개발자 김준혁입니다."),
+	role: "응용 프로그램 개발자",
+	resumeLink: "https://drive.google.com/file/d/1NE0J3Q5vC2UjkySUYgKsvQhd5cfcjd8U/view?usp=sharing",
 	// IMPORTANT
 	// If you don't want to show this, change view to false. DO NOT DELETE!
 	view: true
@@ -14,14 +14,14 @@ export const greeting = {
 export const socialMediaLinks = {
 	// IMPORTANT
 	// if you don't have, change value to blank or false!! DO NOT DELETE!
-	github: 'Your github link',
-	linkedin: 'Your linkedin link',
-	email: 'your email link',
-	facebook: 'Your facebook link',
-	twitter: "Your twitter link",
-	instagram: "Your instagram link",
-	medium: 'Your medium link',
-	stackoverflow: 'Your stackoverflow link'
+	github: 'https://github.com/wnsgur1198',
+	linkedin: '',
+	email: 'kimjunhyeok.it@gmail.com',
+	facebook: '',
+	twitter: "",
+	instagram: "",
+	medium: '',
+	stackoverflow: ''
 };
 
 export const skills = {
