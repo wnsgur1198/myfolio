@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myFolio/static/css/main.7a95f607.chunk.css",
-    "main.js": "/myFolio/static/js/main.fcaf9d24.chunk.js",
-    "main.js.map": "/myFolio/static/js/main.fcaf9d24.chunk.js.map",
-    "runtime-main.js": "/myFolio/static/js/runtime-main.a98ea7df.js",
-    "runtime-main.js.map": "/myFolio/static/js/runtime-main.a98ea7df.js.map",
-    "static/js/2.9a2180c5.chunk.js": "/myFolio/static/js/2.9a2180c5.chunk.js",
-    "static/js/2.9a2180c5.chunk.js.map": "/myFolio/static/js/2.9a2180c5.chunk.js.map",
-    "index.html": "/myFolio/index.html",
-    "precache-manifest.0dd724f2862c79a681be9add2f02cd71.js": "/myFolio/precache-manifest.0dd724f2862c79a681be9add2f02cd71.js",
-    "service-worker.js": "/myFolio/service-worker.js",
-    "static/css/main.7a95f607.chunk.css.map": "/myFolio/static/css/main.7a95f607.chunk.css.map",
-    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/myFolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/myFolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/myFolio/static/media/your photo.b9d7d448.png"
+    "main.css": "/myfolio/static/css/main.7a95f607.chunk.css",
+    "main.js": "/myfolio/static/js/main.fcaf9d24.chunk.js",
+    "main.js.map": "/myfolio/static/js/main.fcaf9d24.chunk.js.map",
+    "runtime-main.js": "/myfolio/static/js/runtime-main.05518b59.js",
+    "runtime-main.js.map": "/myfolio/static/js/runtime-main.05518b59.js.map",
+    "static/js/2.9a2180c5.chunk.js": "/myfolio/static/js/2.9a2180c5.chunk.js",
+    "static/js/2.9a2180c5.chunk.js.map": "/myfolio/static/js/2.9a2180c5.chunk.js.map",
+    "index.html": "/myfolio/index.html",
+    "precache-manifest.c7621102864d77329d2cafd23d3f014e.js": "/myfolio/precache-manifest.c7621102864d77329d2cafd23d3f014e.js",
+    "service-worker.js": "/myfolio/service-worker.js",
+    "static/css/main.7a95f607.chunk.css.map": "/myfolio/static/css/main.7a95f607.chunk.css.map",
+    "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/myfolio/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/myfolio/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/myfolio/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a98ea7df.js",
+    "static/js/runtime-main.05518b59.js",
     "static/js/2.9a2180c5.chunk.js",
     "static/css/main.7a95f607.chunk.css",
     "static/js/main.fcaf9d24.chunk.js"
