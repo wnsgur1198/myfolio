@@ -58,7 +58,7 @@ function Header() {
 					</li>}
 					{blogs.view && <li className="nav-list" onClick={onClickMenu}>
 						<a href="#blog">
-							Blogs
+							Certifications
 						</a>
 					</li>}
 					{contactInfo.view && <li className="nav-list" onClick={onClickMenu}>
