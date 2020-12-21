@@ -9,7 +9,7 @@ function Footer() {
 
                 <div className="footer-content">
                     <p>{emoji("Make By 김준혁")}</p>
-                    <p style={{marginTop: "15px"}}>Theme By <a href="https://github.com/wnsgur1198/myfolio">myFolio</a></p>
+                    <p style={{marginTop: "15px"}}>Theme By <a href="https://github.com/ikalli/ReactFolio">ReactFolio</a></p>
                 </div>
 
             </div>
